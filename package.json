@@ -11,7 +11,7 @@
   },
   "private": false,
   "stdlib": {
-    "name": "nemo/twilio",
+    "name": "ebinjohn-123/twilio",
     "defaultFunction": "forward",
     "timeout": 10000,
     "publish": true
